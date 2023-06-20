@@ -10,6 +10,8 @@ BOM test- Node.js, Express, React Native, Redux,
 -  npm run build
 -  npm start
 
+### -- Note: You'll need to create a dotenv file in the Backend folder and add your API_KEY there or feel free to modify Backend/src/services/products directly.
+
 # To run frontend
 1. cd Client
 2. npm install
