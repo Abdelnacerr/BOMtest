@@ -14,3 +14,8 @@ BOM test- Node.js, Express, React Native, Redux,
 1. cd Client
 2. npm install
 3. npm run ios
+
+![Simulator Screenshot - iPhone 14 Pro - 2023-06-20 at 22 18 38](https://github.com/Abdelnacerr/BOMtest/assets/28521566/9f27ca3e-2b18-40ad-8904-07b7a5f591f3)
+
+
+![Screenshot 2023-06-20 at 10 23 36 pm](https://github.com/Abdelnacerr/BOMtest/assets/28521566/dee1a92f-50ac-4835-8076-077c50884331)
