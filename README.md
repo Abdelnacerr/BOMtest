@@ -1,15 +1,19 @@
 # BOMtest
 BOM test- Node.js, Express, React Native, Redux,
 
-## To run backend
+# To run backend
 1. cd Backend
 2. npm install
-3a. npm run build (to build the project for production)
-3b. npm run dev (to run the project in development mode)
-4. npm start
+3. To run the project in development mode, run the following command in the terminal:
+-  npm run dev (to run the project in development mode)
+4.  To run the project in production mode, run the following command in the terminal:
+-  npm run build
+-  npm start
 
-## To run frontend
-
+# To run frontend
+1. cd Client
+2. npm install
+3. npm run ios
 
 ![Simulator Screenshot - iPhone 14 Pro - 2023-06-20 at 22 18 38](https://github.com/Abdelnacerr/BOMtest/assets/28521566/9f27ca3e-2b18-40ad-8904-07b7a5f591f3)
 
